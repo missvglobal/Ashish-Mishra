@@ -1,0 +1,8 @@
+{
+  "name": "AI Attendance Tracker",
+  "description": "An intelligent attendance application that automatically captures timestamp, email, photo, and location address, then saves the data to Google Sheets.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
